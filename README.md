@@ -1,4 +1,4 @@
-![](1.jpg)
+![](https://raw.githubusercontent.com/skywalker512/skywalker512/master/1.jpg)
 
 - 🔭 I’m currently working on DevOps, Development Experience
 - 🌱 I’m currently learning Frontend, CNCF's thing
